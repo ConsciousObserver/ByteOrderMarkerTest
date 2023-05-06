@@ -1,0 +1,1 @@
+This roject contains a few csv files, that contain Byte Order Marker bytes. It shows how to read them properly using org.apache.commons.io.input.BOMInputStream
